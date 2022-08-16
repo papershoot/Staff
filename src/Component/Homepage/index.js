@@ -76,15 +76,6 @@ function Home() {
                             }}>
                             <p>Hi, {sessionStorage.getItem("Username")}</p>
 
-//                             <Avatar
-//                                 src={require("file:///D:/react/vachay_web/src/asset/images/logo.jpg")}
-//                                 sx={{
-//                                     width: '100px',
-//                                     height: '100px',
-//                                     marginLeft: '75px'
-
-//                                 }} />
-
                         </Box>
 
                         <Divider />
