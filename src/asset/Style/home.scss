@@ -1,0 +1,84 @@
+.wrapper {
+    margin-top: 20px;
+
+}
+
+.table-list-staff {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    border-radius: 10px !important;
+
+}
+
+.table-list-staff .title-col {
+    background-color: burlywood;
+    height: 40px;
+}
+
+.table-list-staff td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(220, 175, 175);
+}
+
+.table-list-staff tbody {
+    background-color: rgb(245, 252, 253);
+}
+
+.lu-header {
+    width: 100%;
+    display: flex;
+}
+
+.lu-header .form-search {
+    width: auto;
+}
+
+.lu-header .search-left .search-input {
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.lu-header .form-search .fa-search {
+    position: absolute;
+    margin-left: -25px;
+    margin-top: 6px;
+}
+
+.lu-header .create-right {
+    float: right;
+    margin-left: auto;
+}
+
+.btn-del {
+    margin-right: 20px;
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+
+
+.btn-edit {
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: darkorange;
+}
+
+.pop-close {
+    margin-left: auto;
+}
+
+.fa-download {
+    color: white;
+}
+
+.btn-download {
+    background-color: rgb(75, 37, 212);
+    height: 30px;
+    float: right;
+}
